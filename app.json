@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "sdkVersion": "24.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#CCCCCC"
+    },
+    "name": "Hilti-Kickoff",
+    "icon": "./src/assets/images/logo/iosLogo.png",
+    "version": "1.0.0",
+    "slug": "hilti-kickoff",
+    "ios": {
+      "bundleIdentifier": "com.hilti.hilti"
+    },
+    "android": {
+      "package": "com.hilti.ko2018",
+      "versionCode":1
+    },
+    "orientation": "portrait"
+  }
+}
